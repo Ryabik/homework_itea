@@ -1,0 +1,11 @@
+D:\ITEA\C#Advance\1_LessonCollections\bin\Debug\netcoreapp2.2\1_LessonCollections.deps.json
+D:\ITEA\C#Advance\1_LessonCollections\bin\Debug\netcoreapp2.2\1_LessonCollections.runtimeconfig.json
+D:\ITEA\C#Advance\1_LessonCollections\bin\Debug\netcoreapp2.2\1_LessonCollections.runtimeconfig.dev.json
+D:\ITEA\C#Advance\1_LessonCollections\bin\Debug\netcoreapp2.2\1_LessonCollections.dll
+D:\ITEA\C#Advance\1_LessonCollections\bin\Debug\netcoreapp2.2\1_LessonCollections.pdb
+D:\ITEA\C#Advance\1_LessonCollections\obj\Debug\netcoreapp2.2\1_LessonCollections.csprojAssemblyReference.cache
+D:\ITEA\C#Advance\1_LessonCollections\obj\Debug\netcoreapp2.2\1_LessonCollections.csproj.CoreCompileInputs.cache
+D:\ITEA\C#Advance\1_LessonCollections\obj\Debug\netcoreapp2.2\1_LessonCollections.AssemblyInfoInputs.cache
+D:\ITEA\C#Advance\1_LessonCollections\obj\Debug\netcoreapp2.2\1_LessonCollections.AssemblyInfo.cs
+D:\ITEA\C#Advance\1_LessonCollections\obj\Debug\netcoreapp2.2\1_LessonCollections.dll
+D:\ITEA\C#Advance\1_LessonCollections\obj\Debug\netcoreapp2.2\1_LessonCollections.pdb

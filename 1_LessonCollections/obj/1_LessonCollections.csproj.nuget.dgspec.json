@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ITEA\\C#Advance\\1_LessonCollections\\1_LessonCollections.csproj": {}
+  },
+  "projects": {
+    "D:\\ITEA\\C#Advance\\1_LessonCollections\\1_LessonCollections.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITEA\\C#Advance\\1_LessonCollections\\1_LessonCollections.csproj",
+        "projectName": "1_LessonCollections",
+        "projectPath": "D:\\ITEA\\C#Advance\\1_LessonCollections\\1_LessonCollections.csproj",
+        "packagesPath": "C:\\Users\\Ryabik\\.nuget\\packages\\",
+        "outputPath": "D:\\ITEA\\C#Advance\\1_LessonCollections\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ryabik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
