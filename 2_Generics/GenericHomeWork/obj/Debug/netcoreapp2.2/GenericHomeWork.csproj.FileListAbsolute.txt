@@ -1,0 +1,11 @@
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\bin\Debug\netcoreapp2.2\GenericHomeWork.deps.json
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\bin\Debug\netcoreapp2.2\GenericHomeWork.runtimeconfig.json
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\bin\Debug\netcoreapp2.2\GenericHomeWork.runtimeconfig.dev.json
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\bin\Debug\netcoreapp2.2\GenericHomeWork.dll
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\bin\Debug\netcoreapp2.2\GenericHomeWork.pdb
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericHomeWork.csprojAssemblyReference.cache
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericHomeWork.csproj.CoreCompileInputs.cache
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericHomeWork.AssemblyInfoInputs.cache
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericHomeWork.AssemblyInfo.cs
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericHomeWork.dll
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericHomeWork.pdb

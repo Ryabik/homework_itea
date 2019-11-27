@@ -1,0 +1,11 @@
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\bin\Debug\netcoreapp2.2\GenericPerson.deps.json
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\bin\Debug\netcoreapp2.2\GenericPerson.runtimeconfig.json
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\bin\Debug\netcoreapp2.2\GenericPerson.runtimeconfig.dev.json
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\bin\Debug\netcoreapp2.2\GenericPerson.dll
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\bin\Debug\netcoreapp2.2\GenericPerson.pdb
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericPerson.csproj.CoreCompileInputs.cache
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericPerson.AssemblyInfoInputs.cache
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericPerson.AssemblyInfo.cs
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericPerson.dll
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericPerson.pdb
+D:\ITEA\C#Advance\2_Generics\GenericHomeWork\obj\Debug\netcoreapp2.2\GenericPerson.csprojAssemblyReference.cache
